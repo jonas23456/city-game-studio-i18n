@@ -51,7 +51,7 @@ de:
   BUTTON_FEEDBACK: Feedback
   DROPDOWN_LANGUAGE: Sprache
   BUTTON_CRACK_GAME: Ein Spiel knacken
-  BUTTON_FORCE_STUDIO_SELL: Force Studio Verkauf
+  BUTTON_FORCE_STUDIO_SELL: Erzwinge Studio Verkauf
   BUTTON_SPY: Einen Konkurrenten ausspionieren
   BUTTON_HIRE_THEIR_EMPLOYE: Stellen Sie ihren Mitarbeiter ein
   BUTTON_SELECT: Wählen
@@ -151,7 +151,7 @@ de:
 
     Wir freuen uns, Ihnen mitteilen zu können, dass  %s für das  %s geplant ist.
 
-    Die Tagung wird 3 Tage dauern, und wir warten auf die Besucher des  %s.
+    Die Tagung wird 3 Tage dauern und wir erwarten %s Besucher.
     Sie können bereits einen Stand mieten, um Ihre schönsten Kreationen zu präsentieren. Beeilung, die Plätze sind begrenzt.
 
     Mit freundlichen Grüßen,
@@ -310,7 +310,7 @@ de:
   LABEL_INFORMATIONS: Details
   LABEL_GAME: Spiel
   LABEL_GAMEPORT: Ein Spiel portieren
-  LABEL_CONVENTION: Ausstellungs Center
+  LABEL_CONVENTION: Ausstellungscenter
   LABEL_LAND_VALUE: Land Wert
   LABEL_SURFACE: Oberfläche
   LABEL_HYPE: Hype
@@ -457,7 +457,7 @@ de:
   LABEL_TYPE_SUBMARINE: U-Boot
   LABEL_TYPE_TRAIN: Zug
   LABEL_TYPE_STRATEGY: Strategie
-  LABEL_TYPE_RTS: RTS
+  LABEL_TYPE_RTS: Echtzeit-Strategie
   LABEL_TYPE_MOBA_LIKE: Moba-like
   LABEL_TYPE_TOWER_DEFENSE: Turmverteidigung
   LABEL_TYPE_TURN_BASED: Rundenbasiert
@@ -486,7 +486,7 @@ de:
     [b]%s[/b] hat eine neue Plattform veröffentlicht:
     [b]%s[/b]
   LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: >
-    [b]%s[/b] ziehen das allseits bekannte [b]%s[/b] zurück.
+    [b]%s[/b] ziehen die allseits bekannte [b]%s[/b] zurück.
     Die Fans weinen!
   LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: >
     [b]%s[/b] wird innerhalb weniger Monate eine neue Plattform veröffentlichen: [b]%s[/b].
@@ -618,7 +618,7 @@ de:
   LABEL_IDLE: Inaktiv
   LABEL_ADOPT_CAT_DESCRIPTION: >
     Die Mitarbeiter von [b]%s[/b]'s Studio haben eine streunende Katze gefunden, die hinter einem Müllcontainer versteckt war.
-    Die Katze ist super kuschelig und ihr wurde schon einen Namen gegeben!
+    Die Katze ist super kuschelig und ihr wurde schon ein Namen gegeben!
     Was willst du tun?
   LABEL_ADOPT_CAT_TITLE: Streunende Katze
   LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: >
